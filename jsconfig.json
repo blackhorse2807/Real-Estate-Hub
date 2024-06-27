@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": "./", // Set the base URL to the current directory
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "next.config.mjs": ["next.config.js"]
     }
   }
 }
