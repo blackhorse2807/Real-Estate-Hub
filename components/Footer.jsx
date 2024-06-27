@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    © 2024 Ankit Kulariya, Inc.
+    © 2024 Ujjwal Kumar Singh, Inc.
   </Box>
 );
 
